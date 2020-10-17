@@ -1,0 +1,12 @@
+body{
+    font-family: 'Secular One', sans-serif;
+background-color: black;
+
+} 
+.bt{
+    margin:15px 15px;
+    padding: 15px;
+}
+#header{
+    background-color: yellow;
+    padding-top: 10%;}
